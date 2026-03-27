@@ -23,6 +23,7 @@
         <activity android:name=".LoginActivity" />
         <activity android:name=".MovieListActivity" />
         <activity android:name=".ShowtimeListActivity" />
+        <activity android:name=".TheaterListActivity" />
     </application>
 
 </manifest>

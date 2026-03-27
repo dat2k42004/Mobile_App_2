@@ -24,6 +24,7 @@
         <activity android:name=".MovieListActivity" />
         <activity android:name=".ShowtimeListActivity" />
         <activity android:name=".TheaterListActivity" />
+        <activity android:name=".TicketListActivity" />
     </application>
 
 </manifest>

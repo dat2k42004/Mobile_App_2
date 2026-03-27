@@ -9,12 +9,12 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.lab_1.data.AppDatabase;
-import com.example.lab_1.data.Movie;
-import com.example.lab_1.data.Showtime;
-import com.example.lab_1.data.Theater;
-import com.example.lab_1.data.User;
-import com.example.lab_1.utils.PreferenceManager;
+import com.example.mobile_app_2.data.AppDatabase;
+import com.example.mobile_app_2.data.Movie;
+import com.example.mobile_app_2.data.Showtime;
+import com.example.mobile_app_2.data.Theater;
+import com.example.mobile_app_2.data.User;
+import com.example.mobile_app_2.utils.PreferenceManager;
 
 public class MainActivity extends AppCompatActivity {
 

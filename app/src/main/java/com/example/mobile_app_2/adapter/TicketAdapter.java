@@ -9,12 +9,12 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.lab_1.R;
-import com.example.lab_1.data.AppDatabase;
-import com.example.lab_1.data.Movie;
-import com.example.lab_1.data.Showtime;
-import com.example.lab_1.data.Theater;
-import com.example.lab_1.data.Ticket;
+import com.example.mobile_app_2.R;
+import com.example.mobile_app_2.data.AppDatabase;
+import com.example.mobile_app_2.data.Movie;
+import com.example.mobile_app_2.data.Showtime;
+import com.example.mobile_app_2.data.Theater;
+import com.example.mobile_app_2.data.Ticket;
 
 import java.util.List;
 

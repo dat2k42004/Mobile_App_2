@@ -8,8 +8,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.lab_1.R;
-import com.example.lab_1.data.Theater;
+import com.example.mobile_app_2.R;
+import com.example.mobile_app_2.data.Theater;
 
 import java.util.List;
 
